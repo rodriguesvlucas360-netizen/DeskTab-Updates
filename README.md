@@ -47,7 +47,7 @@ Tutti i file sono nella pagina **[Release](https://github.com/rodriguesvlucas360
 | `<Plugin>-<versione>.desktabplugin` | PC | Plugin facoltativi (Spotify, Discord, Monitor di sistema, Misuratori audio, PowerPoint) |
 | `version.json` | — | Usato dall'aggiornamento automatico (non va scaricato) |
 
-> **Requisito sul PC:** [.NET 8 Desktop Runtime e ASP.NET Core Runtime](https://dotnet.microsoft.com/download/dotnet/8.0) (x64).
+> **Requisito sul PC:** Windows 10 o 11 a 64 bit. .NET è incluso nel programma: non serve installare altro.
 > Se mancano, Windows lo segnala al primo avvio con un link per installarli.
 
 ---
