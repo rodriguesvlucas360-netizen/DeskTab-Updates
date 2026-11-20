@@ -211,6 +211,22 @@ al Wi-Fi quando lo stacchi.
 </details>
 
 <details>
+<summary><b>Perché per il cavo serve il Debug USB? È sicuro?</b></summary>
+
+È una domanda giusta. Android non permette a un'app normale di comunicare con il PC attraverso il cavo: l'unico canale
+disponibile è quello di sviluppo (`adb`), che si accende con il *Debug USB*. DeskTab lo usa solo per far passare dal cavo la
+stessa connessione che usa in Wi-Fi e per aprire l'app quando colleghi il tablet. Non legge i tuoi file e non cambia niente
+sul dispositivo.
+
+La prima volta Android chiede se autorizzare quel PC (*«Consentire il debug USB?»*): un computer che non hai autorizzato non
+può fare niente. Per stare tranquillo autorizza solo il tuo PC, non collegare il tablet a computer di cui non ti fidi con il
+debug acceso e spegnilo quando non usi il cavo. In *Opzioni sviluppatore* puoi anche revocare tutte le autorizzazioni date.
+
+**Preferisci non attivarlo?** Nessun problema: in **Wi-Fi** DeskTab funziona senza Debug USB e con tutte le funzioni (tasti,
+manopole, monitor sul tablet). Il cavo è solo un'alternativa per chi non ha una rete a disposizione.
+</details>
+
+<details>
 <summary><b>Android dice «app non installata» o chiede un permesso</b></summary>
 
 La prima volta va permesso *Installa app sconosciute* per l'app da cui apri l'APK (browser o file manager) e, per gli
