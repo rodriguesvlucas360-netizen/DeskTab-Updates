@@ -31,7 +31,7 @@
 | 🖥️ **Sul PC** | DeskTab per Windows 11: editor per creare tasti e profili, e il server a cui si collegano i tablet. |
 | 📱 **Sul tablet** | App Android, oppure iPhone e iPad (dal browser o con l'app). Ogni tasto esegue un'azione sul PC. |
 | 🔌 **Collegamento** | Wi-Fi sulla stessa rete o cavo USB (Android). Accoppiamento con un codice di 6 cifre. |
-| 🎛️ **Integrazioni** | Spotify, Discord, monitor di sistema, misuratori audio, PowerPoint, Photoshop, Forza Horizon 6, Wave Link, Bitfocus Companion. |
+| 🎛️ **Integrazioni** | Spotify, Discord, monitor di sistema, misuratori audio, PowerPoint, Photoshop, Forza Horizon 6, Wave Link, Steam, Bitfocus Companion. |
 
 ---
 
@@ -44,7 +44,7 @@ Tutti i file sono nella pagina **[Release](https://github.com/rodriguesvlucas360
 | `DeskTab-<versione>.exe` | PC Windows 10/11 | Programma per il PC: editor e server (si installa da solo) |
 | `DeskTab-Android-<versione>.apk` | Tablet e telefoni Android 8+ | App per Android |
 | `DeskTab-iOS-<versione>.ipa` | iPhone e iPad (iOS 16+) | App nativa, da installare con Sideloadly |
-| `<Plugin>-<versione>.desktabplugin` | PC | Plugin facoltativi (Spotify, Discord, Monitor di sistema, Misuratori audio, PowerPoint, Photoshop, Forza Horizon 6, Wave Link) |
+| `<Plugin>-<versione>.desktabplugin` | PC | Plugin facoltativi (Spotify, Discord, Monitor di sistema, Misuratori audio, PowerPoint, Photoshop, Forza Horizon 6, Wave Link, Steam) |
 | `version.json` | — | Usato dall'aggiornamento automatico (non va scaricato) |
 
 > **Requisito sul PC:** Windows 10 o 11 a 64 bit. .NET è incluso nel programma: non serve installare altro.
@@ -113,7 +113,7 @@ flowchart LR
 | **Navigazione** | Cartelle, pagine, cambio di profilo |
 | **Audio** | Soundboard, volume di sistema, microfono, volume delle singole app |
 | **Schermo del PC** | Un monitor o una sola finestra del PC dentro il deck, da toccare |
-| **Plugin** | Spotify, Discord, Monitor di sistema, Misuratori audio, PowerPoint, Photoshop, Forza Horizon 6, Wave Link |
+| **Plugin** | Spotify, Discord, Monitor di sistema, Misuratori audio, PowerPoint, Photoshop, Forza Horizon 6, Wave Link, Steam |
 | **Companion** | Pulsanti e manopole di Bitfocus Companion |
 
 ---
