@@ -141,7 +141,7 @@ Cornice nera lucida, acrilico, vetro smerigliato, vetro liquido, neumorfismo: si
 <td valign="top">
 
 ### Impostazioni sul deck
-Un pannello a sezioni sopra i tasti: si vede subito l'effetto di ogni cambio.
+Un pannello di vetro smerigliato sopra i tasti, a sezioni: si vede subito l'effetto di ogni cambio.
 
 <img src="img/impostazioni.png" alt="Impostazioni dell'app">
 </td>
@@ -185,7 +185,7 @@ sequenceDiagram
 | Dove | Come si regola |
 |---|---|
 | **PC** | *Impostazioni → Informazioni → Aggiornamenti*: «Cerca le versioni nuove ogni 6 ore», «Scarica e installa da solo», pulsante «Cerca aggiornamenti» / «Installa ora». |
-| **Android** | *Impostazioni → Lingua e informazioni → Aggiornamenti*: «Scarica gli aggiornamenti da solo». Quando una versione è pronta compare **«Aggiorna a …»** in alto: un tocco e Android chiede la conferma. |
+| **Android** | *Impostazioni → Aggiornamenti e informazioni*: «Scarica gli aggiornamenti da solo». Quando una versione è pronta compare **«Aggiorna a …»** in alto: un tocco e Android chiede la conferma. |
 | **iPhone / iPad** | Dal browser: sempre aggiornato insieme al PC. App: reinstalla l'`.ipa` nuovo con Sideloadly. |
 
 Profili, tasti, plugin e accoppiamenti **restano** dopo ogni aggiornamento.
